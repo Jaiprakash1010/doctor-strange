@@ -1,4 +1,4 @@
-<p align="center">
+⁹<p align="center">
   <img src="assets/Zsearcher.png" alt="Technical Cynite">
 </p>
 <h1 align="center">
